@@ -36,4 +36,5 @@ Un sistema compuesto por dos microservicios:
 - Broker de mensajes: RabbitMQ 
 - Spring Cloud Circuit Breaker para el manejo de errores implementado con Resilience4J
 
-
+## 🛠 Skills
+Javas, Spring Boot, Mongodb y Docker para correr RabbitMQ y Vault en contenedores.
